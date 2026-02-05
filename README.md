@@ -1,4 +1,4 @@
-Dies ist eine Kopie des Projekts https://gitlab.lrz.de/seba-master-2024/team-34/prototype.git.
+This is a copy of the original university project:  https://gitlab.lrz.de/seba-master-2024/team-34/prototype.git.
 
 
 
