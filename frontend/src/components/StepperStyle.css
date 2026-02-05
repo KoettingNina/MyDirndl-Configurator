@@ -1,0 +1,44 @@
+/* stepper */
+.root {
+  width: 100%;
+  margin-top: 6%;
+}
+
+/* everything underneath the steps */
+.content {
+  margin-left: 10%;
+  margin-top: 80px;
+  height: 90%;
+}
+
+/* container for the back und next button */
+.buttonsContainer {
+  display: flex;
+  justify-content: right;
+  padding: 20px;
+  margin-right: 70px;
+  /* margin-top: 60px; */
+  /* position: absolute; */
+  bottom: 20px;
+  right: 0;
+}
+
+/* Selection of the config content for length and Neckline */
+.configSelectionButton {
+  width: 200px;
+  height: 350px;
+  box-shadow: 5px 2px 2px lightgray;
+  margin: 10px;
+  padding: 100px;
+  justify-content: center;
+  display: flex;
+}
+
+/* container for the selection */
+.instructions {
+  display: flex;
+  justify-content: right;
+  gap: 2000px;
+  margin-top: 40px;
+  width: 62%;
+}

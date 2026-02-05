@@ -1,0 +1,12 @@
+.measurementForm {
+   flex: 1;
+}
+
+.measurementPicture {
+    flex: 40%;
+
+}
+
+.wrapperMeasurements {
+    display: flex;
+}
